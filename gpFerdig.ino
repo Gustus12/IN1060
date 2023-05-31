@@ -9,7 +9,6 @@
 #define ROM2_VIBRASJON_PIN 4
 
 //Konstanter:
-#define SERVO_BEVEGELSE_INTERVALL 50 // Styrer tid mellom mikrobevegelse
 #define KLOKKE_VIBRASJON_TID 5000 // Styrer hvor lenge klokke-pushvarsler varer
 #define ROM_VIBRASJON_TID 30000 // Styrer hvor lenge et rom vibrerer
 #define ROM_AKTIVITET_TID 60000 // Styrer hvor lenge et rom holdes aktivt uten å være trigget
